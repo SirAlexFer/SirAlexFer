@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- Аккаунт на Codewars \
+[![codewars](https://www.codewars.com/users/SirAlexFer/badges/large)](https://www.codewars.com/users/SirAlexFer)  
+- Аккаунт на LeetCode \
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=SirAlexFer&theme=dark)](https://leetcode.com/SirAlexFer/)
+- [Аккаунт на Kaggle](https://www.kaggle.com/gladalex)
