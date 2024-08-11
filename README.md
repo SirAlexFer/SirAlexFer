@@ -14,3 +14,7 @@
 - Аккаунт на LeetCode \
 ![Leetcode Stats](https://leetcard.jacoblin.cool/SirAlexFer)
 - [Аккаунт на Kaggle](https://www.kaggle.com/gladalex)
+
+
+Портфолио:
+- [Data Science](https://github.com/SirAlexFer/yandex_practicum_view)
