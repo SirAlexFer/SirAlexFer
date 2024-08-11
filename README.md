@@ -12,5 +12,5 @@
 - Аккаунт на Codewars \
 [![codewars](https://www.codewars.com/users/SirAlexFer/badges/large)](https://www.codewars.com/users/SirAlexFer)  
 - Аккаунт на LeetCode \
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=SirAlexFer&theme=dark)](https://leetcode.com/SirAlexFer/)
+[![KnlnKS's LeetCode stats](![Leetcode Stats](https://leetcard.jacoblin.cool/SirAlexFer)](https://leetcode.com/SirAlexFer/)
 - [Аккаунт на Kaggle](https://www.kaggle.com/gladalex)
