@@ -17,4 +17,4 @@
 
 
 Портфолио:
-- [Data Science](https://github.com/SirAlexFer/yandex_practicum_view)
+- [Data Science проекты](https://github.com/SirAlexFer/yandex_practicum_view)
