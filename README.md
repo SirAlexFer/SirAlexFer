@@ -10,6 +10,8 @@
 Портфолио:
 - <a href="https://github.com/SirAlexFer/data_analysis" target="_blank">Анализ данных проекты</a>
 - <a href="https://github.com/SirAlexFer/yandex_practicum_view" target="_blank">Яндекс Data Science проекты</a>
+- <a href="https://github.com/SirAlexFer/bi_projects" target="_blank">BI проекты</a>
+
 
 ---
 - Аккаунт на Codewars \
